@@ -1,8 +1,7 @@
-// week2 #6
 //Write a program that displays 3 different numbers in numerical order.
-
-//Sample output:   The three numbers in order are 6, 25, 91.
+//Sample output: The three numbers in order are 6, 25, 91.
 //Test all possible starting orders of the three numbers.
+
 #include <iostream>
 using namespace std;
 
