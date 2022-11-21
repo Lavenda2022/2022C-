@@ -1,5 +1,6 @@
 // Write a program that asks the user for three words and prints out the words in alphabetical order,
 // then the words concatenated in alphabetical order (stored in a fourth string).
+
 #include<iostream>
 #include<string>
 using namespace std;
