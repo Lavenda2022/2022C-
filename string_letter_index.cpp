@@ -2,6 +2,7 @@
 //  Two examples of output:
 // 2nd 't' in "computer science at Massey" at position 18.
 // There are not two 'm's in "computer science at Massey."
+
 #include<iostream>
 #include<string>
 using namespace std;
