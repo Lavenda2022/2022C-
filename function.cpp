@@ -1,5 +1,6 @@
 // Write a function that has an integer passed to it and displays a line containing that number of asterisks on one line.
 // For example, if main passes 4 to the function, the output will be:          ****
+
 #include<iostream>
 using namespace std;
 
