@@ -1,6 +1,7 @@
 // Write a program that reads 7 real numbers into an array,
 // sorts them into descending order, then displays the sorted numbers.
 // What case would test the program most fully?
+
 #include <iostream>
 using namespace std;
 
