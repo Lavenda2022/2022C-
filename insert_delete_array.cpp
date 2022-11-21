@@ -11,6 +11,7 @@
 // 276   503   517   682   994
 // Enter an integer to Delete(0) Insert(1) or Quit(2): 2
 // End of Program
+
 #include <iostream>
 using namespace std;
 
