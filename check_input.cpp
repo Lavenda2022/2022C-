@@ -1,6 +1,7 @@
 // Write a function that reads 5 real numbers from 0.0 to 100.0 into an array,
 // checking that input is valid,
 // and displaying any values between 50.0 and 60.0 to 2 decimal places.
+
 #include<iostream>
 #include<iomanip>
 using namespace std;
