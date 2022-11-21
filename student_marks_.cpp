@@ -12,6 +12,7 @@ Enter the mark for student 2: 11
 etc…
 Average: 18.7
 */
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
