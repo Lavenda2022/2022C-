@@ -5,6 +5,7 @@
 // who scored higher than the average mark.
 // Display the ID numbers and marks of students who scored above average, with ID numbers in ascending order.
 // What would you have to change if the data had to be printed out in ascending mark order?
+
 #include <iostream>
 using namespace std;
 
