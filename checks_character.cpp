@@ -8,6 +8,7 @@
 // Enter a character: d
 // d is a lowercase letter.
 // Enter another character or Q to quit: Q
+
 #include<iostream>
 #include<string>
 using namespace std;
