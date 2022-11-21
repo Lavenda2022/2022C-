@@ -1,6 +1,7 @@
 // Write a function that has two letters of the alphabet passed to it
 // and returns the difference between their ascii codes, which main must display.
 // Test the program with several examples including 'A' and 'a'.
+
 #include<iostream>
 #include<string>
 #include<cstdlib>
