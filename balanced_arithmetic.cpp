@@ -1,6 +1,7 @@
 // A line of arithmetic is balanced if there is the correct number of parentheses in the line.
 // Examples:  (3 + 5) * 2 is balanced.  (2 + 4 * 3 is not balanced.  1 + 6)) * 3 is not balanced.
 // Write a program that reads in a line of arithmetic, as a string, and states whether it is balanced or not.
+
 #include<iostream>
 #include<string>
 using namespace std;
