@@ -1,5 +1,6 @@
 // Write a program that reads in a line of text and prints out how many characters and how many words are in the text.
 // (Characters include punctuation and spaces between words.)
+
 #include<iostream>
 #include<string>
 using namespace std;
